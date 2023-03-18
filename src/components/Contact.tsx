@@ -37,7 +37,7 @@ function Contact() {
         <div className="row">
           <div className="col-md-12">
             <a href={inputLink} target="_blank">
-                <input className="form-btn" type="submit" value="Send Message" />
+                <input className="form-btn" type="submit" value="送信" />
             </a>
           </div>
         </div>
