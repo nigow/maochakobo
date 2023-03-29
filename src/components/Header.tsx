@@ -5,16 +5,14 @@ function Header() {
 
   return (
     <header>
-        <div className="image-container-header">
-            <img className="header-image" src={imageUrl} />
-        </div>
-        <div className="headerbg" />
-        <h1 className="comp-title">MAOCHA工房</h1>
-        <h2 className="comp-description">会津のWonderland</h2>
+      <div className="image-container-header">
+        <img className="header-image" src={imageUrl} />
+      </div>
+      <div className="headerbg" />
+      <h1 className="comp-title">MAOCHA工房</h1>
+      <h2 className="comp-description">会津のWonderland</h2>
     </header>
   );
 }
 
 export default Header;
-
-  

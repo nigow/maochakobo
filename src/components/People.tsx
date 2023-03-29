@@ -59,7 +59,7 @@ function People() {
       alt: "chef",
     },
     {
-      name: "Umpopko Maru",
+      name: "Umpoko Maru",
       role: "なわとび部 - いいね欄の監査役も兼任",
       avatar:
         "https://pbs.twimg.com/profile_images/1605738235652476928/dZCG-3VB_400x400.png",
