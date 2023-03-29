@@ -57,6 +57,10 @@ code {
   display: flex;
   z-index: 1;
 }
+.people-row {
+  display: flex;
+  flex-wrap: wrap;
+}
 .img-fluid {
   max-width: 100%;
   height: auto;
@@ -104,8 +108,9 @@ code {
 }
 .col-md-4:last-child {
   margin-left: 1rem;
-
 }
+
+
 
 .x {
   margin: 0rem 1rem!important;
@@ -387,6 +392,9 @@ ul li a {
   height: auto;
   width: 100%;
 }
+.person-card {
+  width:33.3%;
+}
 .s {
   width: 100%;
   margin: 0 1rem!important;
@@ -491,6 +499,9 @@ ul li a {
     list-style: none;
   }
   .col-md-4 {
+    width: 55.9%!important;
+  }
+  .person-card {
     width: 55.9%!important;
   }
   .col-md-6 {
